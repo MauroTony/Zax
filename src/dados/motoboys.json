@@ -1,0 +1,71 @@
+[
+  {
+    "name": "moto1",
+    "fixed_cost": 2,
+    "lojas": [
+      {
+        "name": "loja1"
+      },
+      {
+        "name": "loja2"
+      },
+      {
+        "name": "loja3"
+      }
+    ]
+  },
+  {
+    "name": "moto2",
+    "fixed_cost": 2,
+    "lojas": [
+      {
+        "name": "loja1"
+      },
+      {
+        "name": "loja2"
+      },
+      {
+        "name": "loja3"
+      }
+    ]
+  },
+  {
+    "name": "moto3",
+    "fixed_cost": 2,
+    "lojas": [
+      {
+        "name": "loja1"
+      },
+      {
+        "name": "loja2"
+      },
+      {
+        "name": "loja3"
+      }
+    ]
+  },
+  {
+    "name": "moto4",
+    "fixed_cost": 2,
+    "lojas": [
+      {
+        "name": "loja1"
+      }
+    ]
+  },
+  {
+    "name": "moto5",
+    "fixed_cost": 3,
+    "lojas": [
+      {
+        "name": "loja1"
+      },
+      {
+        "name": "loja2"
+      },
+      {
+        "name": "loja3"
+      }
+    ]
+  }
+]

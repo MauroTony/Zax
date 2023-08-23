@@ -1,0 +1,52 @@
+[
+  {
+    "name": "pedido1",
+    "loja": "loja1",
+    "price": 50
+  },
+  {
+    "name": "pedido2",
+    "loja": "loja1",
+    "price": 50
+  },
+  {
+    "name": "pedido3",
+    "loja": "loja1",
+    "price": 50
+  },
+  {
+    "name": "pedido1",
+    "loja": "loja2",
+    "price": 50
+  },
+  {
+    "name": "pedido2",
+    "loja": "loja2",
+    "price": 50
+  },
+  {
+    "name": "pedido3",
+    "loja": "loja2",
+    "price": 50
+  },
+  {
+    "name": "pedido4",
+    "loja": "loja2",
+    "price": 50
+  },
+  {
+    "name": "pedido1",
+    "loja": "loja3",
+    "price": 50
+  },
+  {
+    "name": "pedido2",
+    "loja": "loja3",
+    "price": 50
+  },
+  {
+    "name": "pedido3",
+    "loja": "loja3",
+    "price": 100
+  }
+]
