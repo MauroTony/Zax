@@ -1,1 +1,1 @@
-from base_model import BaseModel, SimpleField, ListField
+from .base_model import BaseModel, SimpleField, ListField
