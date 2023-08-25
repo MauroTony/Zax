@@ -1,5 +1,6 @@
 import json
 from models import LojasList, PedidosList, MotoboyList, Lojas, Pedidos, Motoboy
+
 class GerenciaDados:
 
     def __init__(self):
@@ -19,8 +20,6 @@ class GerenciaDados:
         self.pedidos = PedidosList(pedidos=[Pedidos(**pedido) for pedido in pedidos_json])
         self.motoboys = MotoboyList(motoboys=[Motoboy(**motoboy) for motoboy in motoboys_json])
 
-    def carrega_dados_sqlite(self):
-        pass
 
 class AnalisaPedidos(GerenciaDados):
 
